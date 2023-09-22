@@ -1,0 +1,5 @@
+running on 5000 valid images
+Classification Accuracy: 98.170
+Detection IOU: 0.938
+Test time: 61.844 seconds
+Test speed: 80.849 images / second
