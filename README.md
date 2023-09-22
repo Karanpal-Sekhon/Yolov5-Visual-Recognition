@@ -2,7 +2,7 @@
 
 In this repo, you will find the files best.pt, classifier.py, log.txt, and main.py.
 <br>
-## best.pt
+<a href = "best.py">best.pt</a>
 The best trained model from previous training. This model predicts with an accuracy greater than 95% on my given dataset. Unfortunately the dataset is too large to be posted on to github, in the future it is likely I will cut the data in half and retriain and repost.
 <br>
 
